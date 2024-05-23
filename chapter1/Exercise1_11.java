@@ -1,4 +1,5 @@
-public class Exercise_11 {
+
+public class Exercise1_11 {
     public static void main(String[] args) {
         System.out.println("Population after 1st year:");
         System.out.println(312_032_486 + (60 * 60 * 24 * 365 / 7) - (60 * 60 * 24 * 365 / 13) + (60 * 60 * 24 * 365 / 45));
