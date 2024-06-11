@@ -56,14 +56,14 @@ public class Exercise5_29 {
 
             // print day titles
             System.out.printf("%6s%6s%6s%6s%6s%6s%6s\n", "Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat");
+
             // print days row
+            for (int i = offset % 7; i > 0; i--) {
+                System.out.printf("%6s", " "); 
+            }
 
             for (int i = 1; i <= days; i++) {
-                if (i % 7 == 0) {
-                    System.out.printf("%6d\n", i);
-                } else {
-                    System.out.printf("%6d", i);
-                }
+                System.out.printf("%6d", i); 
             }
 
             System.out.println();
