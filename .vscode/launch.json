@@ -1,0 +1,1096 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TotalArea",
+            "request": "launch",
+            "mainClass": "chapter9.TotalArea",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ComputeArea",
+            "request": "launch",
+            "mainClass": "ComputeArea",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "ComputeAreaWithConsoleInput",
+            "request": "launch",
+            "mainClass": "ComputeAreaWithConsoleInput",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "ComputeAreaWithConstant",
+            "request": "launch",
+            "mainClass": "ComputeAreaWithConstant",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "ComputeAverage",
+            "request": "launch",
+            "mainClass": "ComputeAverage",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "ComputeChange",
+            "request": "launch",
+            "mainClass": "ComputeChange",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "ComputeExpression",
+            "request": "launch",
+            "mainClass": "ComputeExpression",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "ComputeLoan",
+            "request": "launch",
+            "mainClass": "ComputeLoan",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "DisplayTime",
+            "request": "launch",
+            "mainClass": "DisplayTime",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise1_1",
+            "request": "launch",
+            "mainClass": "Exercise1_1",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise1_10",
+            "request": "launch",
+            "mainClass": "Exercise1_10",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise1_11",
+            "request": "launch",
+            "mainClass": "Exercise1_11",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise1_12",
+            "request": "launch",
+            "mainClass": "Exercise1_12",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise1_13",
+            "request": "launch",
+            "mainClass": "Exercise1_13",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise1_2",
+            "request": "launch",
+            "mainClass": "Exercise1_2",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise1_3",
+            "request": "launch",
+            "mainClass": "Exercise1_3",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise1_4",
+            "request": "launch",
+            "mainClass": "Exercise1_4",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise1_5",
+            "request": "launch",
+            "mainClass": "Exercise1_5",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise1_6",
+            "request": "launch",
+            "mainClass": "Exercise1_6",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise1_7",
+            "request": "launch",
+            "mainClass": "Exercise1_7",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise1_8",
+            "request": "launch",
+            "mainClass": "Exercise1_8",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise1_9",
+            "request": "launch",
+            "mainClass": "Exercise1_9",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise2_1",
+            "request": "launch",
+            "mainClass": "Exercise2_1",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise2_10",
+            "request": "launch",
+            "mainClass": "Exercise2_10",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise2_11",
+            "request": "launch",
+            "mainClass": "Exercise2_11",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise2_12",
+            "request": "launch",
+            "mainClass": "Exercise2_12",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise2_13",
+            "request": "launch",
+            "mainClass": "Exercise2_13",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise2_19",
+            "request": "launch",
+            "mainClass": "Exercise2_19",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise2_2",
+            "request": "launch",
+            "mainClass": "Exercise2_2",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise2_3",
+            "request": "launch",
+            "mainClass": "Exercise2_3",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise2_4",
+            "request": "launch",
+            "mainClass": "Exercise2_4",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise2_5",
+            "request": "launch",
+            "mainClass": "Exercise2_5",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise2_6",
+            "request": "launch",
+            "mainClass": "Exercise2_6",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise2_7",
+            "request": "launch",
+            "mainClass": "Exercise2_7",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise2_8",
+            "request": "launch",
+            "mainClass": "Exercise2_8",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise2_9",
+            "request": "launch",
+            "mainClass": "Exercise2_9",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "FahrenheitForCelsius",
+            "request": "launch",
+            "mainClass": "FahrenheitForCelsius",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "SalesTax",
+            "request": "launch",
+            "mainClass": "SalesTax",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "ShowCurrentTime",
+            "request": "launch",
+            "mainClass": "ShowCurrentTime",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Welcome",
+            "request": "launch",
+            "mainClass": "Welcome",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "WelcomeWithThreeMessages",
+            "request": "launch",
+            "mainClass": "WelcomeWithThreeMessages",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "AdditionQuiz",
+            "request": "launch",
+            "mainClass": "chapter3.AdditionQuiz",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "ChineseZodiac",
+            "request": "launch",
+            "mainClass": "chapter3.ChineseZodiac",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "ComputeAndInterpretBMI",
+            "request": "launch",
+            "mainClass": "chapter3.ComputeAndInterpretBMI",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise3_1",
+            "request": "launch",
+            "mainClass": "chapter3.Exercise3_1",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise3_11",
+            "request": "launch",
+            "mainClass": "chapter3.Exercise3_11",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise3_15",
+            "request": "launch",
+            "mainClass": "chapter3.Exercise3_15",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise3_17",
+            "request": "launch",
+            "mainClass": "chapter3.Exercise3_17",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise3_18",
+            "request": "launch",
+            "mainClass": "chapter3.Exercise3_18",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise3_19",
+            "request": "launch",
+            "mainClass": "chapter3.Exercise3_19",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise3_21",
+            "request": "launch",
+            "mainClass": "chapter3.Exercise3_21",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise3_22",
+            "request": "launch",
+            "mainClass": "chapter3.Exercise3_22",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise3_23",
+            "request": "launch",
+            "mainClass": "chapter3.Exercise3_23",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise3_24",
+            "request": "launch",
+            "mainClass": "chapter3.Exercise3_24",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise3_27",
+            "request": "launch",
+            "mainClass": "chapter3.Exercise3_27",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise3_29",
+            "request": "launch",
+            "mainClass": "chapter3.Exercise3_29",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise3_4",
+            "request": "launch",
+            "mainClass": "chapter3.Exercise3_4",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise3_5",
+            "request": "launch",
+            "mainClass": "chapter3.Exercise3_5",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise3_9",
+            "request": "launch",
+            "mainClass": "chapter3.Exercise3_9",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "LeapYear",
+            "request": "launch",
+            "mainClass": "chapter3.LeapYear",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Lottery",
+            "request": "launch",
+            "mainClass": "chapter3.Lottery",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "SimpleIfDemo",
+            "request": "launch",
+            "mainClass": "chapter3.SimpleIfDemo",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "SubtractionQuiz",
+            "request": "launch",
+            "mainClass": "chapter3.SubtractionQuiz",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "ComputeAngles",
+            "request": "launch",
+            "mainClass": "chapter4.ComputeAngles",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise4_1",
+            "request": "launch",
+            "mainClass": "chapter4.Exercise4_1",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise4_11",
+            "request": "launch",
+            "mainClass": "chapter4.Exercise4_11",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise4_2",
+            "request": "launch",
+            "mainClass": "chapter4.Exercise4_2",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise4_3",
+            "request": "launch",
+            "mainClass": "chapter4.Exercise4_3",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise4_6",
+            "request": "launch",
+            "mainClass": "chapter4.Exercise4_6",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise4_8",
+            "request": "launch",
+            "mainClass": "chapter4.Exercise4_8",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "FormatDemo",
+            "request": "launch",
+            "mainClass": "chapter4.FormatDemo",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "GuessBirthday",
+            "request": "launch",
+            "mainClass": "chapter4.GuessBirthday",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "HexDigit2Dec",
+            "request": "launch",
+            "mainClass": "chapter4.HexDigit2Dec",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "LotteryUsingStrings",
+            "request": "launch",
+            "mainClass": "chapter4.LotteryUsingStrings",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "OrderTwoCities",
+            "request": "launch",
+            "mainClass": "chapter4.OrderTwoCities",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Dec2Hex",
+            "request": "launch",
+            "mainClass": "chapter5.Dec2Hex",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise5_1",
+            "request": "launch",
+            "mainClass": "chapter5.Exercise5_1",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise5_14",
+            "request": "launch",
+            "mainClass": "chapter5.Exercise5_14",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise5_15",
+            "request": "launch",
+            "mainClass": "chapter5.Exercise5_15",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise5_16",
+            "request": "launch",
+            "mainClass": "chapter5.Exercise5_16",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise5_17",
+            "request": "launch",
+            "mainClass": "chapter5.Exercise5_17",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise5_19",
+            "request": "launch",
+            "mainClass": "chapter5.Exercise5_19",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise5_21",
+            "request": "launch",
+            "mainClass": "chapter5.Exercise5_21",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise5_22",
+            "request": "launch",
+            "mainClass": "chapter5.Exercise5_22",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise5_25",
+            "request": "launch",
+            "mainClass": "chapter5.Exercise5_25",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise5_27",
+            "request": "launch",
+            "mainClass": "chapter5.Exercise5_27",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise5_28",
+            "request": "launch",
+            "mainClass": "chapter5.Exercise5_28",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise5_29",
+            "request": "launch",
+            "mainClass": "chapter5.Exercise5_29",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise5_32",
+            "request": "launch",
+            "mainClass": "chapter5.Exercise5_32",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise5_33",
+            "request": "launch",
+            "mainClass": "chapter5.Exercise5_33",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise5_34",
+            "request": "launch",
+            "mainClass": "chapter5.Exercise5_34",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise5_36",
+            "request": "launch",
+            "mainClass": "chapter5.Exercise5_36",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise5_37",
+            "request": "launch",
+            "mainClass": "chapter5.Exercise5_37",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise5_38",
+            "request": "launch",
+            "mainClass": "chapter5.Exercise5_38",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise5_45",
+            "request": "launch",
+            "mainClass": "chapter5.Exercise5_45",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise5_7",
+            "request": "launch",
+            "mainClass": "chapter5.Exercise5_7",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "FutureTuition",
+            "request": "launch",
+            "mainClass": "chapter5.FutureTuition",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "GreatestCommonDivisor",
+            "request": "launch",
+            "mainClass": "chapter5.GreatestCommonDivisor",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "GuessNumber",
+            "request": "launch",
+            "mainClass": "chapter5.GuessNumber",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "GuessNumberOneTime",
+            "request": "launch",
+            "mainClass": "chapter5.GuessNumberOneTime",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "MultiplicationTable",
+            "request": "launch",
+            "mainClass": "chapter5.MultiplicationTable",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "chapter5.Palindrome",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumber",
+            "request": "launch",
+            "mainClass": "chapter5.PrimeNumber",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "RepeatAdditionQuiz",
+            "request": "launch",
+            "mainClass": "chapter5.RepeatAdditionQuiz",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "SentinelValue",
+            "request": "launch",
+            "mainClass": "chapter5.SentinelValue",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "SubtractionQuizLoop",
+            "request": "launch",
+            "mainClass": "chapter5.SubtractionQuizLoop",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "TestBreak",
+            "request": "launch",
+            "mainClass": "chapter5.TestBreak",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "TestDoWhile",
+            "request": "launch",
+            "mainClass": "chapter5.TestDoWhile",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise6_18",
+            "request": "launch",
+            "mainClass": "chapter6.Exercise6_18",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise6_2",
+            "request": "launch",
+            "mainClass": "chapter6.Exercise6_2",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise6_22",
+            "request": "launch",
+            "mainClass": "chapter6.Exercise6_22",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise6_25",
+            "request": "launch",
+            "mainClass": "chapter6.Exercise6_25",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise6_26",
+            "request": "launch",
+            "mainClass": "chapter6.Exercise6_26",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise6_27",
+            "request": "launch",
+            "mainClass": "chapter6.Exercise6_27",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise6_28",
+            "request": "launch",
+            "mainClass": "chapter6.Exercise6_28",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise6_29",
+            "request": "launch",
+            "mainClass": "chapter6.Exercise6_29",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise6_3",
+            "request": "launch",
+            "mainClass": "chapter6.Exercise6_3",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise6_30",
+            "request": "launch",
+            "mainClass": "chapter6.Exercise6_30",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise6_31",
+            "request": "launch",
+            "mainClass": "chapter6.Exercise6_31",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "GreatestCommonDivisorMethod",
+            "request": "launch",
+            "mainClass": "chapter6.GreatestCommonDivisorMethod",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Hex2Dec",
+            "request": "launch",
+            "mainClass": "chapter6.Hex2Dec",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "MethodDemo",
+            "request": "launch",
+            "mainClass": "chapter6.MethodDemo",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumberMethod",
+            "request": "launch",
+            "mainClass": "chapter6.PrimeNumberMethod",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "PrintCalendar",
+            "request": "launch",
+            "mainClass": "chapter6.PrintCalendar",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "TestMax",
+            "request": "launch",
+            "mainClass": "chapter6.TestMax",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "TestMethodOverloading",
+            "request": "launch",
+            "mainClass": "chapter6.TestMethodOverloading",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "TestPassByValue",
+            "request": "launch",
+            "mainClass": "chapter6.TestPassByValue",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "TestRandomCharacter",
+            "request": "launch",
+            "mainClass": "chapter6.TestRandomCharacter",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "TestVoidMethod",
+            "request": "launch",
+            "mainClass": "chapter6.TestVoidMethod",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "AnalyzeNumbers",
+            "request": "launch",
+            "mainClass": "chapter7.AnalyzeNumbers",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "chapter7.Calculator",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "CountLettersInArray",
+            "request": "launch",
+            "mainClass": "chapter7.CountLettersInArray",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "DeckOfCards",
+            "request": "launch",
+            "mainClass": "chapter7.DeckOfCards",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise7_17",
+            "request": "launch",
+            "mainClass": "chapter7.Exercise7_17",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise7_18",
+            "request": "launch",
+            "mainClass": "chapter7.Exercise7_18",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise7_19",
+            "request": "launch",
+            "mainClass": "chapter7.Exercise7_19",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise7_23",
+            "request": "launch",
+            "mainClass": "chapter7.Exercise7_23",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise7_24",
+            "request": "launch",
+            "mainClass": "chapter7.Exercise7_24",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise7_29",
+            "request": "launch",
+            "mainClass": "chapter7.Exercise7_29",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise7_3",
+            "request": "launch",
+            "mainClass": "chapter7.Exercise7_3",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise7_30",
+            "request": "launch",
+            "mainClass": "chapter7.Exercise7_30",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise7_31",
+            "request": "launch",
+            "mainClass": "chapter7.Exercise7_31",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise7_32",
+            "request": "launch",
+            "mainClass": "chapter7.Exercise7_32",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise7_35",
+            "request": "launch",
+            "mainClass": "chapter7.Exercise7_35",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Exercise7_5",
+            "request": "launch",
+            "mainClass": "chapter7.Exercise7_5",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "chapter7.Test",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "TestPassArray",
+            "request": "launch",
+            "mainClass": "chapter7.TestPassArray",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "VarArgsDemo",
+            "request": "launch",
+            "mainClass": "chapter7.VarArgsDemo",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "FindNearestPoint",
+            "request": "launch",
+            "mainClass": "chapter8.FindNearestPoint",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "GradExam",
+            "request": "launch",
+            "mainClass": "chapter8.GradExam",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "PassTwoDimensionalArray",
+            "request": "launch",
+            "mainClass": "chapter8.PassTwoDimensionalArray",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "Test(1)",
+            "request": "launch",
+            "mainClass": "chapter8.Test",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "TestCircle",
+            "request": "launch",
+            "mainClass": "chapter9.TestCircle",
+            "projectName": "java-course_3a3283ac"
+        },
+        {
+            "type": "java",
+            "name": "TestPoint2D",
+            "request": "launch",
+            "mainClass": "chapter9.TestPoint2D",
+            "projectName": "java-course_3a3283ac",
+            "vmArgs": "--module-path ${env:PATH_TO_FX} --add-modules javafx.controls",
+            "env": {
+                "PATH_TO_FX": "c:\\javafx\\javafx-sdk-22.0.2\\lib"
+            }
+        }
+    ]
+}
