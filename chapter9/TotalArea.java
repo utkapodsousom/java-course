@@ -1,5 +1,4 @@
 package chapter9;
-
 public class TotalArea {
     public static void main(String[] args) {
         Circle[] circleArray;

@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Exercise9_2",
+            "request": "launch",
+            "mainClass": "chapter9.Exercise9_2",
+            "projectName": "java-course_486f6ccb"
+        },
+        {
+            "type": "java",
+            "name": "Exercise9_1",
+            "request": "launch",
+            "mainClass": "chapter9.Exercise9_1",
+            "projectName": "java-course_486f6ccb"
+        },
+        {
+            "type": "java",
             "name": "TotalArea",
             "request": "launch",
             "mainClass": "chapter9.TotalArea",
