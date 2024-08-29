@@ -1,10 +1,12 @@
 package chapter9;
 
 public class Rectangle {
-    private double width = 1;
-    private double height = 1;
+    private double width;
+    private double height;
 
-    Rectangle() {}
+    Rectangle() {
+        this(1, 1);
+    }
 
     Rectangle(double width, double height) {
         this.width = width;

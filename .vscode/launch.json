@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PalindromeIgnoreNonAlphanumeric",
+            "request": "launch",
+            "mainClass": "chapter9.PalindromeIgnoreNonAlphanumeric",
+            "projectName": "java-course_486f6ccb"
+        },
+        {
+            "type": "java",
+            "name": "LargeFactorial",
+            "request": "launch",
+            "mainClass": "chapter9.LargeFactorial",
+            "projectName": "java-course_486f6ccb"
+        },
+        {
+            "type": "java",
+            "name": "TestStackOfIntegers",
+            "request": "launch",
+            "mainClass": "chapter9.TestStackOfIntegers",
+            "projectName": "java-course_486f6ccb"
+        },
+        {
+            "type": "java",
+            "name": "TestCourse",
+            "request": "launch",
+            "mainClass": "chapter9.TestCourse",
+            "projectName": "java-course_486f6ccb"
+        },
+        {
+            "type": "java",
+            "name": "UseBMIClass",
+            "request": "launch",
+            "mainClass": "chapter9.UseBMIClass",
+            "projectName": "java-course_486f6ccb"
+        },
+        {
+            "type": "java",
+            "name": "TestLoanClass",
+            "request": "launch",
+            "mainClass": "chapter9.TestLoanClass",
+            "projectName": "java-course_486f6ccb"
+        },
+        {
+            "type": "java",
             "name": "Exercise9_2",
             "request": "launch",
             "mainClass": "chapter9.Exercise9_2",
