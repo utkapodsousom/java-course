@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "chapter11.Test",
+            "projectName": "java-course_486f6ccb"
+        },
+        {
+            "type": "java",
+            "name": "DynamicBindingDemo",
+            "request": "launch",
+            "mainClass": "chapter11.DynamicBindingDemo",
+            "projectName": "java-course_486f6ccb"
+        },
+        {
+            "type": "java",
+            "name": "PolymorphismDemo",
+            "request": "launch",
+            "mainClass": "chapter11.PolymorphismDemo",
+            "projectName": "java-course_486f6ccb"
+        },
+        {
+            "type": "java",
+            "name": "TestCircleRectangle",
+            "request": "launch",
+            "mainClass": "chapter11.TestCircleRectangle",
+            "projectName": "java-course_486f6ccb"
+        },
+        {
+            "type": "java",
             "name": "PalindromeIgnoreNonAlphanumeric",
             "request": "launch",
             "mainClass": "chapter9.PalindromeIgnoreNonAlphanumeric",
